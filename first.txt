@@ -3,3 +3,4 @@ nextaaa
 ee
 git remove
 git status
+git diff
